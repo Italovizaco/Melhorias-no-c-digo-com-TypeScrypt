@@ -1,2 +1,2 @@
-# Melhorias-no-c-digo-com-TypeScrypt
+# Melhorias-no-codigo-com-TypeScrypt
 Aprimorando código com Typescrypt 🔧
